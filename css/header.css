@@ -1,0 +1,32 @@
+.container-fluid
+{
+    background-color: #c0d1c5;
+    height: 80px;
+}  
+ .navbar-right
+ {
+     padding-right: 100px;
+     padding-top: 12px;
+ }
+  .search
+ {
+     float: right;
+     margin-top: 15px;
+     margin-left: 10px;
+ }
+ .corner
+{
+    font-size: 20px;
+    margin-left: 20px;
+
+ }
+ .icon
+{
+    margin-top: 10px;
+    float:left;
+}
+.icon1
+{
+    margin-top: 10px;
+    float:right;
+}
